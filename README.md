@@ -32,13 +32,13 @@ Repositório desafios de carreira do M02
 
 * Funções quero aprofundar e aumentar meus conhecimentos porque função e um dos pilares do typescript.
 * Tipos de dados II quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
-* Gestão de tempo 
+* Gestão de tempo: Aumentar meu conhecimento para poder gerir melhor minha rotina.
 * Tipos Utilitários quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
 * Métodos de Strings quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
-* Currículo e carta de apresentação
+* Currículo e carta de apresentação gostaria de aprender como fazer um currículo profissional pois assim posso conseguir maiores oportunidades de aceitação em empresas. 
 * Métodos de Arrays quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
 * Métodos de Arrays II quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
-* Linkedin: primeiros passos
+* Linkedin: primeiros passos: Gostaria de aprender como fazer um perfil que seja mais visto pelos recrutadores.
 * Métodos de Arrays III quero aprender, pois não conheço e acredito que são conhecimentos importantes para minha evolução.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
