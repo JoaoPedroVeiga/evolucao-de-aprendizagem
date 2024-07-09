@@ -43,15 +43,15 @@ Repositório desafios de carreira do M02
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-* Funções
-* Tipos de dados II
-* Gestão de tempo
-* Tipos Utilitários
-* Métodos de Strings
-* Currículo e carta de apresentação
-* Métodos de Arrays
-* Métodos de Arrays II
-* Linkedin: primeiros passos
-* Métodos de Arrays III
+* Função: eu aprendi é um bloco de código que executa alguma operação. Opcionalmente, uma função pode definir parâmetros de entrada que permitem que os chamadores passem argumentos para a função. 
+* Tipos de dados II: aprendi que os tipos são utilizados para definir tipos de dados para variáveis.
+* Gestão de tempo: Aprende que uma boa gestão do tempo pode te levar a ter uma melhor rotina, fazendo assim produzindo mais.
+* Tipos Utilitários: São tipos nativos do JavaScript, em vez de criar os tipos o JavaScript fornece alguns prontos.
+* Métodos de Strings: Aprendo a manipular as strings assim tendo mais controle do meu código.
+* Currículo e carta de apresentação: Aprendo a melhorar meu currículo, com isso consigo aumentar as minhas chances no mercado de trabalho.
+* Métodos de Arrays: Aprendo a manipular as arrays assim tendo mais controle do meu código.
+* Métodos de Arrays II: Aprendo a manipular as arrays assim tendo mais controle do meu código.
+* Linkedin: primeiros passos: Aprendo a melhorar meu Linkedin, com isso consigo aumentar as minhas chances no mercado de trabalho.
+* Métodos de Arrays III: Aprendo a manipular as arrays assim tendo mais controle do meu código.
 
 
